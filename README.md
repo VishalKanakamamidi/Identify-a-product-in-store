@@ -8,3 +8,5 @@ Original image<br/>
 ![alt text](Images/img1.jpg)<br/>
 Detected Image<br/>
 ![alt text](Images/img2.jpg)<br/>
+If you want to find more information about the testing please open this google drive link -<br/>
+https://drive.google.com/drive/folders/1AO6WJk-DV1lPAsFtDJ8r3JFIbzY809D0 <br/>
