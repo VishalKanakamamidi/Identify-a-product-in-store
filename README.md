@@ -5,6 +5,6 @@ Note-<br/>
 2.I have used Google Colab for training purpose so it would be better if you use it.<br/>
 3.If you want the inference graph, then it is in models folder<br/><br/>
 Original image<br/>
-![alt text](img1.jpg)<br/>
+![alt text](Images/img1.jpg)<br/>
 Detected Image<br/>
-![alt text](img2.jpg)<br/>
+![alt text](Images/img2.jpg)<br/>
